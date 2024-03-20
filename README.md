@@ -1,4 +1,4 @@
-<h1>👋🏻 Hello !! My name is Mengseu</h1>
+<h1 align="center">👋🏻 Hello !! My name is Mengseu 👋🏻</h1> 
 <h3 align="center">A passionate software developer from Cambodia KH and also a Graphic Designer</h3>
 
 <br/>
