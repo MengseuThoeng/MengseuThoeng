@@ -4,11 +4,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently studying at **CSTAD & SETEC**
  
  🌱 I’m currently learning **Docker, Spring Boot, C#**
 
-💬 Ask me about **Node.js, React, NextJS... or anything**
+💬 Ask me about **Spring Boot, Windows Application, Web Design... or anything**
 
 ⚡ Fun fact **Without ChatGPT I'm Nothing**
 
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,discord,ai" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,cs,java,nextjs,mysql,idea,ps,pr" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,cs,java,nextjs,mysql,idea,ps,pr,postman,ae" /><br>
 </div>
 
 <br/>
