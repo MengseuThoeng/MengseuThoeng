@@ -1,5 +1,5 @@
-<h1 align="center">👋🏻 Welcome To My Profile👋🏻<br/> ♻️Thoeng Mengseu♻️ </h1> 
-<h3 align="center">A passionate software developer from Cambodia and also a Graphic Designer</h3>
+<h1 align="center">👋🏻 Welcome To My Profile👋🏻 <br/> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />Thoeng Mengseu<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h1> 
+<h3 align="center">A passionate software developer from Cambodia and also a Graphic Designer </h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 💬 Ask me about **Spring Boot, Windows Application, Web Design... or anything**
 
-⚡ Fun fact **Without ChatGPT I'm Nothing**
+⚡ Fun fact **Without ChatGPT I'm Nothing** 
 
  </div>
  
@@ -31,8 +31,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,cs,java,nextjs,mysql,idea,ps,pr,postman,ae" /><br>
- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
 
 <br/>
