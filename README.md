@@ -1,5 +1,5 @@
-<h1 align="center">👋🏻 Hello !! My name is Mengseu 👋🏻</h1> 
-<h3 align="center">A passionate software developer from Cambodia KH and also a Graphic Designer</h3>
+<h1 align="center">👋🏻 Welcome To My Profile👋🏻<br/> ♻️Thoeng Mengseu♻️ </h1> 
+<h3 align="center">A passionate software developer from Cambodia and also a Graphic Designer</h3>
 
 <br/>
 
@@ -24,7 +24,7 @@
   </a>
 </div>
 
- <hr/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
