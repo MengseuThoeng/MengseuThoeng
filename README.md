@@ -31,6 +31,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,cs,java,nextjs,mysql,idea,ps,pr,postman,ae" /><br>
+ <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+ <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
 
 <br/>
