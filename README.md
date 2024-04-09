@@ -7,9 +7,9 @@
  
  🔭 I’m currently studying at **CSTAD & SETEC**
  
- 🌱 I’m currently learning **Docker, Spring Boot, C#**
+ 🌱 I’m currently learning **Docker, Spring Boot, Linux**
 
-💬 Ask me about **Spring Boot, Windows Application, Web Design... or anything**
+💬 Ask me about **Spring Boot, .Net Framework, Web Design... or anything**
 
 ⚡ Fun fact **Without ChatGPT I'm Nothing** 
 
