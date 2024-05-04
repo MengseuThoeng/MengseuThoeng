@@ -1,4 +1,7 @@
-<h1 align="center">👋🏻 Welcome To My Profile👋🏻 <br/> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />Thoeng Mengseu<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h1> 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋🏻+Welcome+To+My+Profile+👋🏻;+I'm+Thoeng+Mengseu!;"/>
+</h1>
+
 <h3 align="center">A passionate software developer from Cambodia and also a Graphic Designer </h3>
 
 <br/>
@@ -12,7 +15,6 @@
 💬 Ask me about **Spring Boot, .Net Framework, Web Design... or anything**
 
 ⚡ Fun fact **Without ChatGPT I'm Nothing** 
-
  </div>
  
 <div align="center"> 
@@ -31,7 +33,13 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai,docker,dotnet" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,cs,java,nextjs,mysql,idea,ps,pr,postman,ae" /><br>
-    <img src="https://skillicons.dev/icons?i=gradle,linux,postgres,ubuntu,visualstudio,windows,wordpress,vite,gmail" /><br>
+    <img src="https://skillicons.dev/icons?i=gradle,linux,postgres,ubuntu,visualstudio,windows,wordpress,vite,gmail,php,spring" /><br>
+ <img src="https://skillicons.dev/icons?i=autocad,gitlab,nginx,vercel,sketchup,stackoverflow" />
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MengseuThoeng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MengseuThoeng&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MengseuThoeng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
