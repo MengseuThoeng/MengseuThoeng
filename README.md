@@ -52,6 +52,6 @@
 <hr/>
 <div align="center">
 <a href='https://pay.ababank.com/fa1GEbRAx9KmdPG18' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn6.aptoide.com/imgs/2/a/6/2a6b391e2053870eac06539bd99d51a6_icon.png' border='0' alt='ABA' /></a>
-    <h3>Click the logo for support me</h3>
+    <h3>Click the logo to support me</h3>
 </div>
 <br/>
