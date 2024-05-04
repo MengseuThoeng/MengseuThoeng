@@ -37,9 +37,21 @@
  <img src="https://skillicons.dev/icons?i=autocad,gitlab,nginx,vercel,sketchup,stackoverflow" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MengseuThoeng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MengseuThoeng&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MengseuThoeng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<h2 align="center">⚡ My Github Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MengseuThoeng&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MengseuThoeng&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MengseuThoeng&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    
+</div>
+<br/>
+<hr/>
+<div align="center">
+<a href='https://pay.ababank.com/fa1GEbRAx9KmdPG18' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn6.aptoide.com/imgs/2/a/6/2a6b391e2053870eac06539bd99d51a6_icon.png' border='0' alt='ABA' /></a>
+    <h3>Click the logo for support me</h3>
+</div>
 <br/>
