@@ -10,7 +10,7 @@
  
  🔭 I’m currently studying at **CSTAD & SETEC**
  
- 🌱 I’m currently learning **Docker, Spring Boot, Linux**
+ 🌱 I’m currently learning **Event Driven, Spring Cloud, BFF**
 
 💬 Ask me about **Spring Boot, .Net Framework, Web Design... or anything**
 
@@ -33,8 +33,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai,docker,dotnet" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,cs,java,nextjs,mysql,idea,ps,pr,postman,ae" /><br>
-    <img src="https://skillicons.dev/icons?i=gradle,linux,postgres,ubuntu,visualstudio,windows,wordpress,vite,gmail,php,spring" /><br>
- <img src="https://skillicons.dev/icons?i=autocad,gitlab,nginx,vercel,sketchup,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=gradle,linux,postgres,ubuntu,visualstudio,windows,wordpress,vite,gmail,php,spring,gcp" /><br>
+ <img src="https://skillicons.dev/icons?i=autocad,gitlab,nginx,vercel,sketchup,stackoverflow,aws,vim,mongodb,nginx,kafka" />
 </div>
 
 
@@ -52,6 +52,6 @@
 <hr/>
 <div align="center">
 <a href='https://pay.ababank.com/fa1GEbRAx9KmdPG18' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn6.aptoide.com/imgs/2/a/6/2a6b391e2053870eac06539bd99d51a6_icon.png' border='0' alt='ABA' /></a>
-    <h3>Click the logo to support me</h3>
+    <h3>CLICK THE LOGO TO DONATION</h3>
 </div>
 <br/>
