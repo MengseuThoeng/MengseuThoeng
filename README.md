@@ -8,14 +8,15 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **CSTAD & SETEC**
+ 🔭 I’ve completed training courses at **ISTAD** in **Spring Microservices** and **Full Stack Web Development**
  
  🌱 I’m currently learning **Event Driven, Spring Cloud, BFF**
 
-💬 Ask me about **Spring Boot, .Net Framework, Web Design... or anything**
+💬 Ask me about **Spring Boot, MongoDB, Kafka, Microservices, Web Design... or anything**
 
-⚡ Fun fact **Without ChatGPT I'm Nothing** 
+⚡ Fun fact **I once tried debugging code with my eyes closed... spoiler alert: it didn’t work!**
  </div>
+
  
 <div align="center"> 
   <a href="mailto:mengseu2004@gmail.com">
