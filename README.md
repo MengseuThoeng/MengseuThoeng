@@ -17,6 +17,7 @@
 ⚡ Fun fact **I once tried debugging code with my eyes closed... spoiler alert: it didn’t work!**
  </div>
 
+
  
 <div align="center"> 
   <a href="mailto:mengseu2004@gmail.com">
@@ -25,7 +26,12 @@
   <a href="https://mengseu-thoeng.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <img src="https://komarev.com/ghpvc/?username=MengseuThoeng&color=red&style=for-the-badge" />
 </div>
+
+
+
+
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
  
@@ -47,8 +53,11 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MengseuThoeng&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MengseuThoeng&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    
 </div>
+
+
+
+
 <br/>
 <hr/>
 <div align="center">
@@ -56,3 +65,5 @@
     <h3>CLICK THE LOGO TO DONATION</h3>
 </div>
 <br/>
+
+
