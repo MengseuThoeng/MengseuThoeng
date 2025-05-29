@@ -55,6 +55,23 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MengseuThoeng&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<h2 align="center">🚀 My Daily Dev Card</h2>
+<br>
+<div align="center">
+  <a href="https://app.daily.dev/thoengmengseu" target="_blank">
+    <img 
+      src="https://api.daily.dev/devcards/v2/GurqhvhLcSo7ntRgu6o4U.png?r=9z7&type=wide" 
+      width="600" 
+      alt="Thoeng Mengseu's Dev Card" 
+      style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);"
+    />
+  </a>
+  <p align="center">
+    <i>Stay updated with what I'm learning and building every day!</i>
+  </p>
+</div>
+
+
 
 
 
