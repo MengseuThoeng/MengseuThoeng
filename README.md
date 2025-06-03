@@ -49,7 +49,7 @@
     <td><img src="https://skillicons.dev/icons?i=html" /></td>
     <td><img src="https://skillicons.dev/icons?i=css" /></td>
     <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
-    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
     <td><img src="https://skillicons.dev/icons?i=figma" /></td>
     <td><img src="https://skillicons.dev/icons?i=tailwind" /></td>
     <td><img src="https://skillicons.dev/icons?i=git" /></td>
@@ -59,7 +59,7 @@
     <td><img src="https://skillicons.dev/icons?i=ai" /></td>
     <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" /></td>
     <td><img src="https://skillicons.dev/icons?i=dotnet" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" /></td>
     <td><img src="https://techstack-generator.vercel.app/js-icon.svg" /></td>
     <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" /></td>
     <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" /></td>
