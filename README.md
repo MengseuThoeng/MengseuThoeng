@@ -34,15 +34,75 @@
 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,discord,ai,docker,dotnet" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,cpp,cs,java,nextjs,mysql,idea,ps,pr,postman,ae" /><br>
-    <img src="https://skillicons.dev/icons?i=gradle,linux,postgres,ubuntu,visualstudio,windows,wordpress,vite,gmail,php,spring,gcp" /><br>
- <img src="https://skillicons.dev/icons?i=autocad,gitlab,nginx,vercel,sketchup,stackoverflow,aws,vim,mongodb,nginx,kafka" />
-</div>
+
+<table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mui" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=figma" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=discord" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ai" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" /></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=typescript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=idea" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ps" /></td>
+    <td><img src="https://skillicons.dev/icons?i=pr" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ae" /></td>
+    <td><img src="https://skillicons.dev/icons?i=gradle" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=linux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ubuntu" /></td>
+    <td><img src="https://skillicons.dev/icons?i=visualstudio" /></td>
+    <td><img src="https://skillicons.dev/icons?i=windows" /></td>
+    <td><img src="https://skillicons.dev/icons?i=wordpress" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vite" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=gmail" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" /></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp" /></td>
+    <td><img src="https://skillicons.dev/icons?i=autocad" /></td>
+    <td><img src="https://skillicons.dev/icons?i=gitlab" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nginx" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=vercel" /></td>
+    <td><img src="https://skillicons.dev/icons?i=sketchup" /></td>
+    <td><img src="https://skillicons.dev/icons?i=stackoverflow" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vim" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
+    <td><img src="https://skillicons.dev/icons?i=kafka" /></td>
+  </tr>
+</table>
+
 
 
 
