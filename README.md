@@ -3,7 +3,7 @@
 </h1>
 <!-- <img src="https://github.com/MengseuThoeng/MengseuThoeng/blob/main/2nd%20arrow.gif?raw=true" alt="Animated footer bars" width="100%"/>
 <img src="https://github-widgetbox.vercel.app/api/profile?username=MengseuThoeng&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%"> -->
-<h3 align="center">A passionate software engineering from Cambodia and also a Graphic Designer </h3>
+<h3 align="center">A passionate Software Engineering from Cambodia and also a Graphic Designer</h3>
 
 <br/>
 
