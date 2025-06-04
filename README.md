@@ -128,6 +128,10 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MengseuThoeng&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<h2 align="center">⚡ My Recent  ⚡</h2>
+<br>
+![snake_gif](https://github.com/MengseuThoeng/MengseuThoeng/blob/output/github-snake-dark.svg)
+
 <!-- <h2 align="center">🚀 My Daily Dev Card</h2> -->
 <!-- <br> -->
 <!-- <div align="center">
