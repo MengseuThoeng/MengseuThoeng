@@ -1,260 +1,198 @@
+<!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c63c22&height=180&section=header&text=Microservices%20Engineering&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:c63c22,50:ff6b35,100:ffb347&height=240&section=header&text=Mengseu%20Thoeng&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20Event-Driven%20Systems&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
+<a href="https://github.com/MengseuThoeng">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FF6B35&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%F0%9F%87%B0%F0%9F%87%AD+Based+in+Phnom+Penh%2C+Cambodia;%E2%9A%99%EF%B8%8F+Designing+Spring+Boot+microservices;%F0%9F%93%A8+Event-driven+systems+with+Kafka;%E2%98%B8%EF%B8%8F+Learning+Kubernetes+%26+Spring+Cloud+Gateway;%F0%9F%8E%A8+Crafting+clean+UI%2FUX+%26+brand+design" alt="Typing animation"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=c63c22&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🇰🇭+Software+Engineer+%7C+Microservices+Architect;🚀+Spring+Boot+%7C+Event-Driven+Systems;💡+Building+Next-Gen+Scalable+Solutions;)](https://git.io/typing-svg)
+<br/><br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<a href="https://mengseu-thoeng.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thoeng-mengseu-273b9b312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mengseu2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://web.facebook.com/mengseu.thoeng/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=MengseuThoeng&label=Profile%20Views&color=FF6B35&style=for-the-badge"/>
+
 </div>
 
-</div>
+<br/>
 
----
+<!-- ============================ ABOUT ============================ -->
+## 👨‍💻 About Me
 
-## 💫 ABOUT_ME.tsx
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string[];
-  education: string[];
-  expertise: string[];
-  currentlyLearning: string[];
-  philosophy: string;
-}
+I'm a **software engineer** who loves turning complex business problems into clean, scalable systems. My core is **Spring Boot microservices** and **event-driven architecture**, and I round it out with full-stack web work and a designer's eye for UI/UX.
 
-const mengseuThoeng: Developer = {
-  name: "Mengseu Thoeng",
-  location: "🌏 Phnom Penh, Cambodia",
-  role: ["Software Engineer", "Full Stack Developer", "Graphic Designer"],
-  education: ["🎓 ISTAD", "🏫 SETEC"],
-  expertise: [
-    "Spring Boot Microservices",
-    "Event-Driven Architecture", 
-    "Full Stack Development",
-    "UI/UX Design"
-  ],
-  currentlyLearning: [
-    "Spring Cloud Gateway",
-    "Apache Kafka Streaming",
-    "BFF Pattern Implementation",
-    "Kubernetes Orchestration"
-  ],
-  philosophy: "Code is poetry written in logic 🎭"
-};
+- 🌏 Based in **Phnom Penh, Cambodia**
+- 🎓 Studied at **ISTAD** and **SETEC**
+- 🏗️ Building **enterprise microservices** and distributed systems
+- 📚 Learning **Spring Cloud Gateway · Kafka Streams · BFF · Kubernetes**
+- 🎨 Designing with **Figma, Photoshop, Premiere & After Effects**
+- 💬 Ask me about **Spring Boot, Kafka, API design, clean architecture**
+
+> *"Code is poetry written in logic."* 🎭
+
+</td>
+<td width="45%" valign="top" align="center">
+
+```text
+╭──────────────────────────────╮
+│  🧑‍💻  mengseu@phnom-penh      │
+├──────────────────────────────┤
+│  role     Software Engineer  │
+│  focus    Microservices      │
+│  style    Event-Driven       │
+│  backend  Java · Spring Boot │
+│  front    React · Next.js    │
+│  infra    Docker · K8s       │
+│  status   🟢 Building        │
+╰──────────────────────────────╯
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+</td>
+</tr>
+</table>
 
----
-
-## 🎯 CURRENT_MISSION
-
-<div align="center">
+<!-- ============================ FOCUS ============================ -->
+## 🎯 Current Focus
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🏗️ BUILDING
-**Enterprise Microservices**
-- Spring Cloud Architecture
-- API Gateway Patterns
-- Distributed Systems
-
-</td>
-<td width="33%" align="center">
-
-### 📚 LEARNING
-**Advanced Patterns**
-- Event Sourcing & CQRS
-- Domain-Driven Design
-- Clean Architecture
+### 🏗️ Building
+**Enterprise Microservices**<br/>
+Spring Cloud · API Gateway<br/>
+Distributed Systems
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🚀 EXPLORING
-**Next-Gen Tech**
-- Reactive Programming
-- Cloud Native Development
-- AI/ML Integration
+### 📚 Learning
+**Advanced Patterns**<br/>
+Event Sourcing & CQRS<br/>
+DDD · Clean Architecture
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Exploring
+**Next-Gen Tech**<br/>
+Reactive Programming<br/>
+Cloud Native · AI/ML Integration
 
 </td>
 </tr>
 </table>
 
-</div>
+<!-- ============================ ARCHITECTURE ============================ -->
+## 🧩 How I Like to Build
 
----
+GitHub renders this diagram natively, a simplified view of the event-driven architecture I work with:
 
-## ⚡ TECH_STACK
+```mermaid
+flowchart LR
+    C([🌐 Web / Mobile Client]) --> GW[Spring Cloud Gateway]
+    GW --> BFF[BFF Layer]
+    BFF --> S1[User Service]
+    BFF --> S2[Order Service]
+    BFF --> S3[Notification Service]
+    S1 -- publishes --> K{{Apache Kafka}}
+    S2 -- publishes --> K
+    K -- consumes --> S3
+    S1 --- DB1[(PostgreSQL)]
+    S2 --- DB2[(MongoDB)]
+    BFF --- R[(Redis Cache)]
 
-<div align="center">
+    classDef edge fill:#ff6b35,stroke:#c63c22,color:#fff;
+    classDef svc fill:#1f2937,stroke:#ff6b35,color:#fff;
+    classDef data fill:#0d1117,stroke:#ffb347,color:#fff;
+    class GW,BFF edge;
+    class S1,S2,S3 svc;
+    class K,DB1,DB2,R data;
+```
 
-### 🎨 **Frontend Ecosystem**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-</p>
-
-### ⚙️ **Backend Arsenal**
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-</p>
-
-### 🗄️ **Data & Messaging**
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-</p>
-
-### ☁️ **Cloud & DevOps**
-<p>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-
-### 🎯 **Design & Creative**
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=393665"/>
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
----
-
-## 📈 GITHUB_ANALYTICS
+<!-- ============================ TECH STACK ============================ -->
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MengseuThoeng&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=15"/>
-<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MengseuThoeng&theme=radical&hide_border=true&background=0D1117&border_radius=15"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengseuThoeng&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15&langs_count=10&hide=html,css"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MengseuThoeng&custom_title=Contribution%20Timeline&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true&radius=16" width="100%"/>
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MengseuThoeng&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"/>
-</div>
-
----
-
-
-## 🎨 CONTRIBUTION_HEATMAP
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MengseuThoeng/MengseuThoeng/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
-</div>
-
----
-
-## 🤝 LET'S_COLLABORATE
-
-<div align="center">
-
-### 💼 **Open for partnerships in:**
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🏗️ **MICROSERVICES**
-Spring Boot Architecture
-Event-Driven Systems
-
-</td>
-<td align="center" width="25%">
-
-🌐 **FULL STACK**
-Modern Web Applications
-Cloud-Native Solutions
-
-</td>
-<td align="center" width="25%">
-
-🎨 **UI/UX DESIGN**
-Creative Digital Experiences
-Brand Identity Design
-
-</td>
-<td align="center" width="25%">
-
-🚀 **OPEN SOURCE**
-Community Contributions
-Knowledge Sharing
-
-</td>
-</tr>
-</table>
+| | |
+|:---|:---|
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,python&theme=dark" align="center"/> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,mui&theme=dark" align="center"/> |
+| **🗄️ Data & Messaging** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" align="center"/> |
+| **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,gitlab,linux&theme=dark" align="center"/> |
+| **🖌️ Design & Creative** | <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae&theme=dark" align="center"/> |
 
 </div>
 
+<!-- ============================ STATS ============================ -->
+## 📊 GitHub Stats
+
 <div align="center">
 
-<a href="mailto:mengseu2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
-</a>
-<a href="https://mengseu-thoeng.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=20"/>
-</a>
-<a href="https://www.linkedin.com/in/thoeng-mengseu-273b9b312/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
-</a>
-<a href="https://web.facebook.com/mengseu.thoeng/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=20" />
+<a href="https://github.com/MengseuThoeng">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MengseuThoeng&show_icons=true&hide_border=true&theme=transparent&title_color=FF6B35&icon_color=FFB347&text_color=C9D1D9&border_radius=14&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MengseuThoeng&show_icons=true&hide_border=true&theme=transparent&title_color=C63C22&icon_color=FF6B35&text_color=24292F&border_radius=14&include_all_commits=true&count_private=true">
+    <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MengseuThoeng&show_icons=true&hide_border=true&theme=transparent&title_color=FF6B35&icon_color=FFB347&border_radius=14">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MengseuThoeng&layout=compact&hide_border=true&theme=transparent&title_color=FF6B35&text_color=C9D1D9&border_radius=14&langs_count=8&hide=html,css">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MengseuThoeng&layout=compact&hide_border=true&theme=transparent&title_color=C63C22&text_color=24292F&border_radius=14&langs_count=8&hide=html,css">
+    <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengseuThoeng&layout=compact&hide_border=true&theme=transparent&title_color=FF6B35&border_radius=14&langs_count=8&hide=html,css">
+  </picture>
 </a>
 
-<br><br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=MengseuThoeng&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MengseuThoeng&theme=transparent&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FFB347&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=14">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=MengseuThoeng&theme=transparent&hide_border=true&ring=C63C22&fire=FF6B35&currStreakLabel=C63C22&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&border_radius=14">
+  <img height="165" alt="Streak" src="https://streak-stats.demolab.com/?user=MengseuThoeng&theme=transparent&hide_border=true&ring=FF6B35&fire=FF6B35&border_radius=14">
+</picture>
+
+<br/><br/>
+
 
 </div>
 
----
+
+<details>
+<summary><b>🐍 Contribution snake</b> (click to expand)</summary>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MengseuThoeng/MengseuThoeng/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+</details>
+
+<!-- ============================ COLLAB ============================ -->
+## 🤝 Let's Collaborate
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c63c22&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+| 🏗️ Microservices | 🌐 Full Stack | 🎨 UI/UX Design | 🚀 Open Source |
+|:---:|:---:|:---:|:---:|
+| Spring Boot<br/>Event-Driven Systems | Modern Web Apps<br/>Cloud-Native Solutions | Digital Experiences<br/>Brand Identity | Community<br/>Knowledge Sharing |
+
+<br/>
+
+**Got an idea or a project? Let's talk.**
+
+<a href="mailto:mengseu2004@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-FF6B35?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mengseu-thoeng.me"><img src="https://img.shields.io/badge/View%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
 </div>
 
+<!-- ============================ FOOTER ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c63c22,50:ff6b35,100:ffb347&height=120&section=footer" width="100%" alt="footer"/>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-  
-  **"Building the future, one commit at a time"** ⭐
-  
-  <sub>Made with ❤️ by **Mengseu Thoeng**</sub>
+  <sub>⭐ Building the future, one commit at a time · Made with ❤️ by <b>Mengseu Thoeng</b></sub>
 </div>
