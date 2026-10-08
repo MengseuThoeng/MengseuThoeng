@@ -92,29 +92,29 @@ Cloud Native · AI/ML Integration
 
 <!-- ============================ ARCHITECTURE ============================ -->
 ## 🧩 How I Like to Build
-
+ 
 GitHub renders this diagram natively, a simplified view of the event-driven architecture I work with:
-
+ 
 ```mermaid
 flowchart LR
-    C([🌐 Web / Mobile Client]) --> GW[Spring Cloud Gateway]
-    GW --> BFF[BFF Layer]
-    BFF --> S1[User Service]
-    BFF --> S2[Order Service]
-    BFF --> S3[Notification Service]
-    S1 -- publishes --> K{{Apache Kafka}}
-    S2 -- publishes --> K
-    K -- consumes --> S3
-    S1 --- DB1[(PostgreSQL)]
-    S2 --- DB2[(MongoDB)]
-    BFF --- R[(Redis Cache)]
-
-    classDef edge fill:#ff6b35,stroke:#c63c22,color:#fff;
-    classDef svc fill:#1f2937,stroke:#ff6b35,color:#fff;
-    classDef data fill:#0d1117,stroke:#ffb347,color:#fff;
-    class GW,BFF edge;
-    class S1,S2,S3 svc;
-    class K,DB1,DB2,R data;
+    C(["Web and Mobile Client"]) --> GW["Spring Cloud Gateway"]
+    GW --> BFF["BFF Layer"]
+    BFF --> S1["User Service"]
+    BFF --> S2["Order Service"]
+    BFF --> S3["Notification Service"]
+    S1 -->|publishes| K{{"Apache Kafka"}}
+    S2 -->|publishes| K
+    K -->|consumes| S3
+    S1 --> DB1[("PostgreSQL")]
+    S2 --> DB2[("MongoDB")]
+    BFF --> R[("Redis Cache")]
+ 
+    classDef edge fill:#ff6b35,stroke:#c63c22,color:#ffffff
+    classDef svc fill:#1f2937,stroke:#ff6b35,color:#ffffff
+    classDef data fill:#0d1117,stroke:#ffb347,color:#ffffff
+    class GW,BFF edge
+    class S1,S2,S3 svc
+    class K,DB1,DB2,R data
 ```
 
 <!-- ============================ TECH STACK ============================ -->
